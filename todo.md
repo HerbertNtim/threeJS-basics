@@ -4,4 +4,4 @@
 - Create and add a cube object
 - Add Lighting
 - Set up the render
-- Animate 
+- Animate the scene
